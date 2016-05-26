@@ -1,5 +1,5 @@
 # Activity1-Giron
-	##Area of the Triangle
+     -Area of the Triangle
 ```
 #include <stdio.h>
 #include <stdlib.h>
