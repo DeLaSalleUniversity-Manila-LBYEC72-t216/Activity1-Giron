@@ -67,3 +67,26 @@ int main(int argc, char *argv[]) {
 ```
 
 ![](3.PNG)
+
+
+
+
+
+
+
+```
+#include <stdio.h>
+#include <stdlib.h>
+
+
+
+int main(int argc, char *argv[]) {
+	printf("\t\t\t@@@@@@@@@@@@@@@@@@@@@@@@\n\t\t\t    Goldwin D. Giron\n\t\t\t\t BS ECE\n\t\t\t\t11432398\n\t\t\t      July 1, 1989\n\t\t\tgoldwin_giron@dlsu.edu.ph\n\t\t\t       09876543211\n\t\t\t@@@@@@@@@@@@@@@@@@@@@@@@\n");
+	
+	system("PAUSE");
+	return 0;
+}
+}
+```
+
+![](5.JPG)
